@@ -32,7 +32,6 @@ keywords="nikhil",
 package_dir={'nikhil': 'nikhil'},
 long_description_content_type="text/markdown",
 url="https://github.com/nikhillovestech/nikhil",
-packages=setuptools.find_packages(),
 classifiers=[
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
