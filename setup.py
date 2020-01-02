@@ -1,4 +1,5 @@
 from setuptools import setup, find_packages
+import setuptools
 import subprocess
 
 from pip._internal import main as pipmain
